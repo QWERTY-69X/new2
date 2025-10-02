@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-#define LED_PIN 25
+#define LED_PIN 30
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
